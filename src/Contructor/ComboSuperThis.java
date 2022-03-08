@@ -1,6 +1,6 @@
 package Contructor;
 
-public class Combosuperthis {
+public class ComboSuperThis {
    /* Combosuperthis()
     {
         System.out.println("construtor");
@@ -19,7 +19,7 @@ public class Combosuperthis {
     */
     public void Combosuperthis()
     {
-        super();
+        //super();
         System.out.println("method ");
     }
 }

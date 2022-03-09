@@ -3,7 +3,7 @@ package Contructor;
 public class ComboSuperThis {
    /* Combosuperthis()
     {
-        System.out.println("construtor");
+        System.out.println("constructor");
         super();
     }
 
@@ -14,7 +14,7 @@ public class ComboSuperThis {
     {
         super();
         this();
-        System.out.println("simultaneusly");
+        System.out.println("simultaneously");
     }
     */
     public void Combosuperthis()
